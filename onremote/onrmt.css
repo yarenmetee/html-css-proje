@@ -1,0 +1,1357 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.navbar1 {
+  background-color: #fff;
+  z-index: 2;
+  position: fixed;
+  height: 80px;
+  width: 100%;
+}
+
+.btn {
+  margin-top: 30px;
+  margin-bottom: 100px;
+  background-color: #8DCEB8;
+  height: 50px;
+  width: 170px;
+  border: 10px;
+}
+
+.resim {
+  margin-top: 380px;
+  float: right;
+  position: relative;
+  right: 550px;
+  visibility: none;
+}
+
+.iconlar {
+  margin-top: -120px;
+}
+
+.y {
+  background-color: rgba(236, 255, 248, 0.562);
+  height: 100%;
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.paragrafb {
+  margin-top: 150px;
+  color: rgb(36, 17, 121);
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 4rem;
+}
+
+.paragraf {
+  margin-top: 20px;
+  color: #424242;
+  font-size: 20px;
+  font-weight: 450;
+  line-height: 28px;
+}
+
+.logo {
+  width: 60%;
+  margin-top: 10px;
+}
+
+
+
+.circle {
+  width: 450px;
+  margin-left: 580px;
+  margin-top: -150px;
+}
+
+.cicek {
+  width: 150px;
+  margin-left: 950px;
+  margin-top: -450px;
+}
+
+.kutu {
+  width: 450px;
+  margin-left: 520px;
+  margin-top: -730px;
+}
+
+.ok {
+  width: 80px;
+  margin-left: 650px;
+  margin-top: -750px;
+}
+
+.circleçiz {
+  width: 80px;
+  margin-left: 700px;
+  margin-top: -1100px;
+}
+
+.kiz {
+  width: 100px;
+  margin-left: 520px;
+  margin-top: -800px;
+}
+
+.erkek {
+  width: 250px;
+  margin-left: 720px;
+  margin-top: -1000px;
+}
+
+
+
+.text1 {
+  text-align: center;
+  color: rgb(27, 13, 90);
+  margin-top: 100px;
+  font-weight: 900;
+}
+
+.kartsayı {
+  border-radius: 100%;
+  background-color: #62c57ebe;
+  width: 40px;
+  height: 40px;
+  border: 2px solid #097c1198;
+  margin-left: 130px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.card {
+  width: 350px;
+  height: 250px;
+  border-radius: 20px;
+  background-color: #8dceb8c2;
+  margin-left: 200px;
+  margin-top: 130px;
+}
+
+.card-title {
+  font-size: 17px;
+  font-weight: bold;
+  color: #424242;
+  margin-left: 15px;
+}
+
+.card-text {
+  color: #424242;
+  margin-left: 15px;
+  font-size: 18px;
+}
+
+.card-text3 {
+  color: #424242;
+  margin-left: 15px;
+  font-size: 20px;
+}
+
+.video {
+  width: 180px;
+  margin-top: -500px;
+  margin-left: 210px;
+  margin-bottom: 26px;
+}
+
+.tel1 {
+  margin-top: 50px;
+  width: 200px;
+  margin-left: 200px;
+}
+
+.tel2 {
+  margin-top: 90px;
+  width: 200px;
+  margin-left: 200px;
+}
+
+.tel3 {
+  margin-top: 90px;
+  width: 200px;
+  margin-left: 200px;
+  margin-bottom: 150px;
+}
+
+.card1 {
+  width: 350px;
+  height: 250px;
+  border-radius: 20px;
+  background-color: #8dceb8c2;
+  margin-left: 200px;
+  margin-top: 130px;
+}
+
+.card2 {
+  width: 350px;
+  height: 250px;
+  border-radius: 20px;
+  background-color: #8dceb8c2;
+  margin-left: 200px;
+  margin-top: 130px;
+}
+
+.card3 {
+  width: 350px;
+  height: 250px;
+  border-radius: 20px;
+  background-color: #8dceb8c2;
+  margin-left: 200px;
+  margin-top: 130px;
+}
+
+.baslıkmavi {
+  color: rgb(19, 8, 66);
+  text-align: center;
+  font-weight: 1000;
+}
+
+.pmavi {
+  color: rgb(19, 8, 66);
+  text-align: center;
+  font-size: 21px;
+  font-weight: 600;
+}
+
+.video2 {
+  width: 550px;
+  border-radius: 25px;
+  margin-top: 60px;
+}
+
+.video4 {
+  width: 550px;
+  border-radius: 25px;
+  margin-top: 60px;
+}
+
+.h4 {
+  color: rgb(27, 13, 90);
+  font-weight: bold;
+  margin-top: 250px;
+  margin-left: 60px;
+}
+
+.h4b {
+  color: rgb(27, 13, 90);
+  font-weight: bold;
+  margin-top: 250px;
+  margin-left: 60px;
+}
+
+.h4paragraf {
+  margin-left: 60px;
+  font-size: 17px;
+  color: #424242;
+}
+
+.h4p {
+  margin-left: 60px;
+  font-size: 17px;
+  color: #424242;
+  margin-bottom: 300px;
+}
+
+
+.ky {
+  background-color: rgba(109, 207, 171, 0.863);
+  height: 100%;
+  width: 100%;
+}
+
+.pkb {
+  color: rgb(19, 8, 66);
+  margin-top: 130px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.pk {
+  color: #424242;
+  font-size: 16.7px;
+}
+
+.buttton {
+  width: 200px;
+  height: 50px;
+  border-radius: 50px;
+  background-color: rgb(27, 13, 90);
+  color: #fff;
+  font-weight: bold;
+  border: 0;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.telephone {
+  width: 150px;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+
+.okcizgi {
+  width: 100px;
+  transform: rotate(45deg);
+  margin-left: 25px;
+  margin-top: 150px;
+}
+
+.yanıt {
+  width: 130px;
+  margin-top: 250px;
+  margin-left: 13px;
+  border-radius: 100%;
+  border-style: solid;
+  border-color: rgb(27, 13, 90);
+  border-style: rgb(27, 13, 90);
+  border-width: 8px;
+}
+
+
+.h-4 {
+  color: rgb(27, 13, 90);
+}
+
+.feature {
+  background-color: rgba(175, 233, 211, 0.144);
+  height: 100%;
+  width: 100%;
+}
+
+.text-features {
+  color: rgb(19, 8, 66);
+  font-weight: 900;
+  margin-top: 100px;
+}
+
+.ma {
+  width: 800px;
+  height: 800px;
+  margin-left: 340px;
+  background-color: #fff;
+  border-radius: 15px;
+  margin-top: -800px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+.maa {
+  width: 350px;
+  height: 800px;
+  margin-top: 100px;
+  background-color: rgb(27, 13, 90);
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.text-maa {
+  color: #fff;
+  text-align: center;
+  position: relative;
+  top: 400px;
+}
+
+.icon1 {
+  width: 80px;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+.yazı1 {
+  margin-left: 230px;
+  margin-top: -70px;
+}
+
+.icon2 {
+  width: 70px;
+  margin-left: 110px;
+  margin-top: 100px;
+}
+
+.yazı2 {
+  margin-left: 230px;
+  margin-top: -90px;
+}
+
+.icon3 {
+  width: 70px;
+  margin-left: 110px;
+  margin-top: 100px;
+}
+
+.yazı3 {
+  margin-left: 230px;
+  margin-top: -70px;
+}
+
+.icon4 {
+  width: 70px;
+  margin-left: 110px;
+  margin-top: 100px;
+}
+
+.yazı4 {
+  margin-left: 230px;
+  margin-top: -70px;
+}
+
+.text-maa2 {
+  color: #fff;
+  text-align: center;
+  position: relative;
+  top: 400px;
+}
+
+.icon5 {
+  width: 85px;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+.yazı5 {
+  margin-left: 230px;
+  margin-top: -70px;
+}
+
+.icon6 {
+  width: 85px;
+  margin-left: 110px;
+  margin-top: 120px;
+}
+
+.yazı6 {
+  margin-left: 230px;
+  margin-top: -90px;
+}
+
+.icon7 {
+  width: 85px;
+  margin-left: 110px;
+  margin-top: 120px;
+}
+
+.yazı7 {
+  margin-left: 230px;
+  margin-top: -70px;
+}
+
+.icon8 {
+  width: 85px;
+  margin-left: 110px;
+  margin-top: 120px;
+}
+
+.yazı8 {
+  margin-left: 230px;
+  margin-top: -70px;
+}
+
+.ya {
+  width: 350px;
+  height: 800px;
+  margin-top: 100px;
+  background-color: rgb(88, 182, 154);
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.ba {
+  width: 800px;
+  height: 800px;
+  margin-left: 340px;
+  background-color: #fff;
+  border-radius: 15px;
+  margin-top: -800px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+
+
+.Usecases {
+  color: rgb(19, 8, 66);
+  margin-top: 100px;
+  font-weight: 1000;
+  font-size: 40px;
+}
+
+.Usecasesp {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.navbarmenu2 {
+  margin-bottom: 50px;
+  font-size: 20px;
+  background-color: #424242;
+}
+
+.button-construction {
+  color: #42424242;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.button-health {
+  margin-left: 50px;
+  color: #42424242;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.button-retail {
+  margin-left: 50px;
+  color: #42424242;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.button-insurance {
+  margin-left: 50px;
+  color: #42424242;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.navbarmenu2 ul li a:hover {
+  color: rgb(19, 8, 66);
+  border-bottom: solid 5px rgb(19, 8, 66);
+  border-radius: 0px;
+}
+
+.video1,
+.video3 {
+  width: 500px;
+  height: 300px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+.hardwarker ,.health {
+  color: rgb(19, 8, 66);
+  margin-top: 100px;
+  margin-right: 50px;
+}
+
+.health {
+  color: rgb(19, 8, 66);
+  margin-right: 500px;
+}
+
+.retail,
+.Versicherung {
+  color: rgb(19, 8, 66);
+  position: relative;
+  right: 550px;
+  font-size: 20px;
+  font-weight: 1000;
+  margin-top: 30px;
+}
+
+.retailp,
+.Versicherungp {
+  position: relative;
+  right: 550px;
+  margin-bottom: 100px;
+}
+
+
+
+
+.Verwaltungsrat {
+  font-size: 40px;
+  font-weight: 1000;
+  margin-top: 100px;
+  color: rgb(19, 8, 66);
+  margin-bottom: 50px;
+}
+
+.jean {
+  width: 150px;
+  border-radius: 100%;
+  margin-right: 100px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #8DCEB8;
+  border-style: rgb(27, 13, 90);
+}
+
+.mike {
+  width: 150px;
+  border-radius: 100%;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #8DCEB8;
+  border-style: rgb(27, 13, 90);
+}
+
+.jeanp {
+  font-weight: bold;
+  color: rgb(27, 13, 90);
+  margin-top: 25px;
+  text-align: center;
+}
+
+.mikep {
+  font-weight: bold;
+  color: rgb(27, 13, 90);
+  margin-top: 25px;
+  text-align: center;
+}
+
+.Gründer {
+  font-size: 40px;
+  font-weight: 1000;
+  margin-top: 100px;
+  color: rgb(19, 8, 66);
+  margin-bottom: 50px;
+}
+
+.team {
+  text-align: center;
+}
+
+.alle {
+  width: 150px;
+  height: 50px;
+  font-weight: bold;
+  border-radius: 10px;
+  border: none;
+  background-color: #8DCEB8;
+  text-align: center;
+  display: block;
+  margin: auto;
+  margin-bottom: 100px;
+}
+
+.alle:hover {
+  background-color: #fff;
+  color: rgb(90, 185, 157);
+}
+
+
+.hes {
+  background-color: rgba(175, 233, 211, 0.144);
+  height: 100%;
+  width: 100%;
+}
+
+.hesb {
+  margin-top: 100px;
+  color: rgb(27, 13, 90);
+  text-align: center;
+  font-weight: 1000;
+}
+
+.hesp {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.mavihesap {
+  width: 600px;
+  height: 650px;
+  background-color: rgb(27, 13, 90);
+  border-radius: 20px;
+  margin-top: 50px;
+  margin-left: 250px;
+  margin-bottom: 100px;
+}
+
+.total {
+  color: #fff;
+  margin-top: 50px;
+  margin-left: 50px;
+  font-weight: bold;
+}
+
+.total1 {
+  width: 500px;
+  height: 50px;
+  font-size: 20px;
+  color: #fff;
+  border-color: #fff;
+  background-color: rgb(27, 13, 90);
+  border-radius: 30px;
+}
+
+.zu {
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.Fahrtkilometer,
+.co2-km {
+  margin-left: 100px;
+  color: rgb(61, 184, 143);
+}
+
+.co2-ton,
+.CO2 {
+  color: rgb(61, 184, 143);
+}
+
+.total5 {
+  font-weight: bold;
+  color: #fff;
+  margin-left: 100px;
+  font-size: 25px;
+}
+
+.return {
+  margin-left: 100px;
+  color: #fff;
+}
+
+.anfragenbtn {
+  width: 180px;
+  height: 50px;
+  font-weight: bold;
+  color: #424242;
+  border-radius: 10px;
+  border-color: rgb(90, 185, 157);
+  background-color: #8DCEB8;
+  text-align: center;
+  margin-left: 230px;
+}
+
+.anfragenbtn:hover {
+  background-color: #fff;
+  color: rgb(90, 185, 157);
+}
+
+.noc {
+  color: rgb(27, 13, 90);
+  font-size: 40px;
+  font-weight: 1000;
+  margin-top: 100px;
+  margin-left: 150px;
+}
+
+.nocp {
+  font-size: 15px;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+
+.email {
+  width: 100px;
+  height: 50px;
+  margin-left: 200px;
+  margin-top: 50px;
+  border-color: rgb(90, 185, 157);
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: #8DCEB8;
+  margin-bottom: 100px;
+}
+
+.email:hover {
+  background-color: #fff;
+  color: rgb(90, 185, 157);
+}
+
+.Anrufen {
+  width: 100px;
+  height: 50px;
+  margin-top: 50px;
+  border-color: rgb(90, 185, 157);
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: #8DCEB8;
+  margin-bottom: 100px;
+}
+
+.Anrufen:hover {
+  background-color: #fff;
+  color: rgb(90, 185, 157);
+}
+
+.kontakt {
+  color: rgb(27, 13, 90);
+  size: 10px;
+  margin-left: 150px;
+}
+
+.call,
+.mail,
+.adres {
+  margin-left: 150px;
+  text-decoration: none;
+  color: #000;
+}
+
+.ımpressum,
+.daten {
+  color: #000;
+  text-decoration: none;
+  position: relative;
+}
+
+.foot {
+  margin-top: 150px;
+}
+
+
+.prozes,.tea,.featur,.kontakt,.jobs{
+  text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 800px) {
+  .noc {
+    font-size: 35px;
+    position: relative;
+    right: 150px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .nocp {
+    font-size: 17px;
+    position: relative;
+    right: 150px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .email {
+    width: 300px;
+    height: 50px;
+    position: relative;
+    right: 150px;
+  }
+
+  .Anrufen {
+    width: 300px;
+    height: 50px;
+    position: relative;
+    left: 5px;
+    top: -130px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+
+  .kontakt,
+  .call,
+  .mail,
+  .adres {
+    font-size: 17px;
+    position: relative;
+    right: 150px;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .kontakt{
+    position: relative;
+    left: 8px;
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .text1 {
+    margin-top: 150px;
+    color: rgb(36, 17, 121);
+    font-size: 1.2rem;
+    font-weight: 800;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .card {
+    margin-top: 0px;
+    width: 370px;
+    height: 250px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .iconlar {
+    text-align: center;
+    margin-top: 1px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .resim {
+    margin-top: 150px;
+    width: 100%;
+    height: auto;
+    position: relative;
+    right: 600px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .paragrafb {
+    margin-top: 150px;
+    color: rgb(36, 17, 121);
+    font-size: 2.1rem;
+    font-weight: 800;
+    line-height: 2.7rem;
+  }
+}
+
+
+@media only screen and (max-width: 900px) {
+  .card1 {
+    position: relative;
+    right: 180px;
+    margin-top: 0px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .card2 {
+    position: relative;
+    right: 180px;
+    margin-top: -25px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .card3 {
+    position: relative;
+    right: 180px;
+    margin-top: 25px;
+    margin-bottom: 150px;
+  }
+}
+
+
+@media only screen and (max-width: 900px) {
+  .tel1 {
+    width: 120px;
+    height: 250px;
+    position: relative;
+    right: 80px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .tel2 {
+    width: 120px;
+    height: 250px;
+    position: relative;
+    right: 80px;
+    margin-top: 100px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .video {
+    width: 110px;
+    height: 330px;
+    position: relative;
+    right: 85px;
+    margin-bottom: -25px;
+    border-radius: 10px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .tel3 {
+    width: 120px;
+    height: 250px;
+    position: relative;
+    right: 80px;
+    margin-top: 50px;
+    margin-bottom: -25px;
+  }
+}
+
+
+@media only screen and (max-width: 900px) {
+  .video2 {
+    width: 390px;
+    border-radius: 25px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .h4 {
+    position: relative;
+    left: -50px;
+    font-size: 18px;
+    margin-top: 25px;
+    font-weight: bold;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .h4paragraf {
+    position: relative;
+    left: -50px;
+    font-size: 13px;
+    margin-top: 5px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .video4 {
+    width: 390px;
+    border-radius: 25px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .h4b {
+    position: relative;
+    left: -50px;
+    font-size: 16px;
+    margin-top: 25px;
+    font-weight: bold;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .h4p {
+    position: relative;
+    left: -50px;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+}
+
+
+@media only screen and (max-width: 900px) {
+  .ky {
+    margin-top: -230px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .okcizgi {
+    width: 80px;
+    margin-top: -1300px;
+    margin-bottom: -350px;
+    position: relative;
+    right: 10px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .telephone {
+    width: 80px;
+    margin-top: -1300px;
+    margin-bottom: -300px;
+    position: relative;
+    right: -25px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .yanıt {
+    width: 120px;
+    margin-top: -1300px;
+    margin-bottom: -300px;
+    position: relative;
+    right: -160px;
+  }
+}
+
+
+@media only screen and (max-width: 900px) {
+  .pkb {
+    margin-top: 130px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .pkp {
+    margin-top: 180px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .pk {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .buttton {
+    margin-top: -10px;
+  }
+}
+
+
+@media only screen and (max-width: 900px) {
+  .feature {
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 0px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .maa {
+    width: 1000px;
+    height: 200px;
+    border-radius: 0px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .text-maa {
+    color: #fff;
+    margin-top: -300px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .ma {
+    width: 500px;
+    height: 200px;
+    border-radius: 0px;
+    margin-top: 1px;
+    position: relative;
+    right: 400px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+
+  .icon1,
+  .icon2,
+  .icon3,
+  .icon4 {
+    width: 80px;
+    position: relative;
+    right: -150px;
+    margin-top: -5px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+
+  .yazı1,
+  .yazı2 {
+    width: 360px;
+    margin-top: 50px;
+    position: relative;
+    right: 150px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .yazı3 {
+    width: 310px;
+    margin-top: 50px;
+    position: relative;
+    right: 150px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .yazı4 {
+    width: 370px;
+    margin-top: 50px;
+    position: relative;
+    right: 150px;
+  }
+}
+
+
+
+
+@media only screen and (max-width: 900px) {
+  .ya {
+    width: 550px;
+    height: 190px;
+    border-radius: 0px;
+    right: 100px;
+    position: relative;
+    margin-top: 750px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .text-maa2 {
+    color: #fff;
+    top: 70px;
+    position: relative;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+
+  .icon5,
+  .icon6,
+  .icon7,
+  .icon8 {
+    width: 80px;
+    position: relative;
+    right: 250px;
+    top: 650px;
+    margin-top: 200px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+
+  .yazı5,
+  .yazı6 {
+    width: 360px;
+    top: 900px;
+    position: relative;
+    right: 700px;
+    margin-top: 20px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .yazı7 {
+    width: 310px;
+    top: 900px;
+    position: relative;
+    margin-top: 20px;
+    right: 700px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .yazı8 {
+    width: 370px;
+    top: 900px;
+    position: relative;
+    right: 700px;
+    margin-top: 20px;
+  }
+}
+
+
+@media only screen and (max-width: 900px) {
+  .Usecases {
+    margin-top: 1000px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .Usecasesp {
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .hesp {
+    font-size: 15px;
+    text-align: left;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .mavihesap {
+    position: relative;
+    right: 300px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .total1 {
+    width: 400px;
+    position: relative;
+    right: 00px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .zu {
+    font-size: 18px;
+    position: relative;
+    right: 50px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .hr5 {
+    position: relative;
+    right: 50px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .anfragenbtn {
+    width: 300px;
+    height: 50px;
+    position: relative;
+    right: 150px;
+  }
+}
+
+
+@media only screen and (max-width: 900px) {
+  .navbar-nav1{
+    background-color: #fff;
+    position: relative;
+    top: 15px;
+ 
+
+   
+  }
+}
+@media only screen and (max-width: 900px) {
+  .navbar-expand-lg  {
+    width: 120px;
+    height: 50px;
+    position: relative;
+    left: 20px;
+    top: -50px;
+    background-color: rgb(92, 206, 168);
+   border-color:  #fff;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .button-construction{
+  
+    color: #000;
+    position: relative;
+    top: 5px;
+    right: 5px;
+    font-size: 20px;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .button-health,.button-retail,.button-insurance{
+    background-color: #fff;
+    color: #000;
+    position: relative;
+    top: 5px;
+    right: 70px;
+    font-size: 20px;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .button-construction{
+    color: #000;
+    position: relative;
+    top: 10px;
+    right: 20px;
+    font-size: 20px;
+  }
+}
